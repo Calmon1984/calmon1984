@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estou procurando uma vaga junior em front end.
 - 🌱 Atualmente estou estudando front end.
-- 👯 Procuro colaborar com projetos aprimorem meus estudos.
+- 👯 Procuro colaborar com projetos que aprimorem meus estudos.
 - 🤔 Procuro ajuda com HTML, CSS, JS e seus framework.
 - 😄 Pronomes: ele/dele.
 

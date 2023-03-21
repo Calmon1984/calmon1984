@@ -1,4 +1,4 @@
-### Olá, eu sou Calmon Azevedo
+### Olá, eu sou Calmon Azevedo! 🌱 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 
 
 ##
 
